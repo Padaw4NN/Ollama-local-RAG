@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+qdrant_storage
+src/__pycache__
+.DS_Store
+
+# Virtual environments
+.venv
